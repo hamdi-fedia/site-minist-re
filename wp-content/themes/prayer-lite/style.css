@@ -1,0 +1,27 @@
+/*
+Theme Name: Prayer Lite
+Theme URI: https://gracethemes.com/themes/prayer/
+Author: Grace Themes
+Author URI:
+Description: Prayer Lite is an impressive charity WordPress theme with a clean, modern and creative design. It is an attractive and fully responsive theme specially designed for churches, charity organizations and other kinds of religious websites. This multi-functional and highly adaptive theme can also be used for non-profit organizations, political organizations, foundations, social causes, ministry, donation, fundraiser, event and other related organization.  Demo Link: http://www.gracethemesdemo.com/prayer/
+
+Version: 2.0
+License: GNU General Public License version 2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: prayer-lite
+Tags:blog,two-columns,right-sidebar,full-width-template,custom-colors,custom-menu,custom-header,custom-logo,featured-images,editor-style,custom-background,threaded-comments,theme-options, translation-ready
+
+Prayer Lite WordPress Theme has been created by Grace Themes(gracethemes.com), 2019.
+Prayer Lite WordPress Theme is released under the terms of GNU GPL
+*/
+body {
+	color:red !important;
+}
+h1.entry-title {
+    font-weight: bold;
+    margin-bottom: 35px;
+    font-size: 50px;
+    text-transform: uppercase;
+    border-bottom: 5px solid #ddd;
+    padding-bottom: 20px;
+}
