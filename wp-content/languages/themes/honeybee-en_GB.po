@@ -1,0 +1,549 @@
+# Translation of Themes - HoneyBee in English (UK)
+# This file is distributed under the same license as the Themes - HoneyBee package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-11 15:40:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - HoneyBee\n"
+
+#. Description of the theme
+msgid "HoneyBee is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyBee has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyBee is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+msgstr "HoneyBee is a lightweight, elegant and fully featured theme, crafted for businesses, magazines, newspaper, personal blogs, online shops, restaurants, wedding planners, gyms, and more. HoneyBee has special features like a slider banner, testimonials, services, and blogs. It's fully responsive and compatible with any device. Easy to use and implement, HoneyBee is also compatible with WooCommerce. You can easily import dummy data with the SpiceBox plugin."
+
+#. Theme Name of the theme
+#: functions.php:159
+msgid "HoneyBee"
+msgstr "HoneyBee"
+
+#: index-news.php:87 index-news.php:131
+msgid "Read more"
+msgstr "Read more"
+
+#: index-news.php:70 index-news.php:114
+msgid "By"
+msgstr "By"
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr "Cras Vitae Placerat"
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr "Vitae Lacinia"
+
+#: inc/header/header-nav.php:33
+msgid "Search …"
+msgstr "Search…"
+
+#: inc/header/header-nav.php:27 inc/header/header-nav.php:35
+msgid "Search"
+msgstr "Search"
+
+#: inc/header/header-nav.php:14
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: inc/customizer/customizer_theme_style.php:33
+msgid "Skin color"
+msgstr "Skin colour"
+
+#: inc/customizer/customizer_theme_style.php:19
+msgid "Enable custom color skin"
+msgstr "Enable custom colour skin"
+
+#: header.php:16
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:154
+msgid "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> by SpiceThemes"
+msgstr "Proudly powered by <a href=\"https://wordpress.org\"> WordPress</a> | Theme: <a href=\"https://spicethemes.com\" rel=\"nofollow\">HoneyBee</a> by SpiceThemes"
+
+#: functions/widgets/wdl_topbar_info.php:137
+msgid "Email: abc@example.com"
+msgstr "Email: abc@example.com"
+
+#: functions/widgets/wdl_topbar_info.php:132
+msgid "Email"
+msgstr "E-mail"
+
+#: functions/widgets/wdl_topbar_info.php:128
+msgid "fa fa-phone"
+msgstr "fa fa-phone"
+
+#: functions/widgets/wdl_topbar_info.php:120
+msgid "Phone: +99 999-999-9999"
+msgstr "Phone: +99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:115
+msgid "Phone"
+msgstr "Phone"
+
+#: functions/widgets/wdl_topbar_info.php:112
+#: functions/widgets/wdl_topbar_info.php:130
+msgid "Link to get Font Awesome icons"
+msgstr "Link to get Font Awesome icons"
+
+#: functions/widgets/wdl_topbar_info.php:110
+#: functions/widgets/wdl_topbar_info.php:112
+#: functions/widgets/wdl_topbar_info.php:130
+msgid "fa-icon"
+msgstr "fa-icon"
+
+#: functions/widgets/wdl_topbar_info.php:105
+#: functions/widgets/wdl_topbar_info.php:123
+msgid "Font Awesome icon"
+msgstr "Font Awesome icon"
+
+#: functions/widgets/wdl_topbar_info.php:66
+#: functions/widgets/wdl_topbar_info.php:99
+msgid "abc@example.com"
+msgstr "abc@example.com"
+
+#: functions/widgets/wdl_topbar_info.php:48
+#: functions/widgets/wdl_topbar_info.php:87
+msgid "+99 999-999-9999"
+msgstr "+99 999-999-9999"
+
+#: functions/widgets/wdl_topbar_info.php:19
+msgid "Topbar header info widget."
+msgstr "Topbar header info widget."
+
+#: functions/widgets/wdl_topbar_info.php:16
+msgid "HoneyBee: Header info widget"
+msgstr "HoneyBee: Header info widget"
+
+#: functions/widgets/wdl_social_icon.php:241
+msgid "Dribble URL"
+msgstr "Dribble URL"
+
+#: functions/widgets/wdl_social_icon.php:235
+msgid "Vimeo URL"
+msgstr "Vimeo URL"
+
+#: functions/widgets/wdl_social_icon.php:229
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/widgets/wdl_social_icon.php:223
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: functions/widgets/wdl_social_icon.php:217
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/widgets/wdl_social_icon.php:211
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/widgets/wdl_social_icon.php:205
+msgid "Google-Plus URL"
+msgstr "Google-Plus URL"
+
+#: functions/widgets/wdl_social_icon.php:199
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/widgets/wdl_social_icon.php:196
+#: functions/widgets/wdl_social_icon.php:202
+#: functions/widgets/wdl_social_icon.php:208
+#: functions/widgets/wdl_social_icon.php:214
+#: functions/widgets/wdl_social_icon.php:220
+#: functions/widgets/wdl_social_icon.php:226
+#: functions/widgets/wdl_social_icon.php:232
+#: functions/widgets/wdl_social_icon.php:238
+#: functions/widgets/wdl_social_icon.php:244
+msgid "Open link in new tab"
+msgstr "Open link in new tab"
+
+#: functions/widgets/wdl_social_icon.php:193
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/widgets/wdl_social_icon.php:16
+msgid "HoneyBee social icons widget"
+msgstr "HoneyBee social icons widget"
+
+#: functions/widgets/wdl_social_icon.php:13
+msgid "HoneyBee: Social icons"
+msgstr "HoneyBee: Social icons"
+
+#: functions/widgets/sidebars.php:19
+msgid "Subscriber section widget area"
+msgstr "Subscriber section widget area"
+
+#: functions/widgets/sidebars.php:17
+msgid "Top header sidebar Right area"
+msgstr "Top header sidebar Right area"
+
+#: functions/widgets/sidebars.php:10
+msgid "Social media menu lateral area"
+msgstr "Social media menu lateral area"
+
+#: functions/widgets/sidebars.php:8
+msgid "Top header sidebar left area"
+msgstr "Top header sidebar left area"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Want to get the gist on the latest theme changes? Just consult our change log below to get a taste of the recent fixes and features implemented."
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid "We want to make sure you have the best experience using HoneyBee, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyBee as much as we enjoy creating great products."
+msgstr "We want to make sure you have the best experience using HoneyBee, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using HoneyBee as much as we enjoy creating great products."
+
+#: admin/tab-pages/useful_plugins.php:12 admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr "Contact Support"
+
+#: admin/tab-pages/getting-started.php:80
+msgid "Premium Theme Details"
+msgstr "Premium Theme Details"
+
+#: admin/tab-pages/getting-started.php:70
+msgid "Premium Theme Support"
+msgstr "Premium Theme Support"
+
+#: admin/tab-pages/getting-started.php:67
+msgid "Your feedback is valuable to us"
+msgstr "Your feedback is valuable to us"
+
+#: admin/tab-pages/getting-started.php:56
+msgid "PRO Demo"
+msgstr "PRO Demo"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "Lite Demo"
+msgstr "Lite Demo"
+
+#: admin/tab-pages/getting-started.php:44
+msgid "Useful Links"
+msgstr "Useful Links"
+
+#: admin/tab-pages/getting-started.php:35
+msgid "HoneyBee theme"
+msgstr "HoneyBee theme"
+
+#: admin/tab-pages/getting-started.php:29
+msgid "Go to the Customizer"
+msgstr "Go to the Customizer"
+
+#: admin/tab-pages/getting-started.php:26
+msgid "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+msgstr "To take full advantage of all the features this theme has to offer, install and activate the SpiceBox plugin. Go to Customize and install the SpiceBox plugin."
+
+#: admin/tab-pages/getting-started.php:19
+msgid "You can use this theme for any type of activity. HoneyBee is compatible with popular plugins like WPML and Polylang for the translation."
+msgstr "You can use this theme for any type of activity. HoneyBee is compatible with popular plugins like WPML and Polylang for the translation."
+
+#: admin/tab-pages/getting-started.php:11
+msgid "About the HoneyBee theme"
+msgstr "About the HoneyBee theme"
+
+#: admin/tab-pages/free_vs_pro.php:166
+msgid "Get PRO Version Now!"
+msgstr "Get PRO Version Now!"
+
+#: admin/tab-pages/free_vs_pro.php:156
+msgid "Premium Support Forum"
+msgstr "PRO Support Forum"
+
+#: admin/tab-pages/free_vs_pro.php:104 admin/tab-pages/free_vs_pro.php:140
+msgid "Wide layout & Boxed Layout"
+msgstr "Full-Width layout & Boxed layout"
+
+#: admin/tab-pages/free_vs_pro.php:139
+msgid "About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "About Us, Services, Portfolios, Blogs with left and right sidebars or full-width,  full-width pages, Contact forms and much more."
+
+#: admin/tab-pages/free_vs_pro.php:137
+msgid "Top Header, Slider [Unlimited], Services [Unlimited], Portfolio [Unlimited], Latest News, Clients, Testimonials, Custom Widgets"
+msgstr "A top header, unlimited sliders, unlimited services, unlimited portfolios, latest news, clients, testimonials, custom widgets"
+
+#: admin/tab-pages/free_vs_pro.php:132
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/tab-pages/free_vs_pro.php:120
+msgid "On WordPress.org Support Forum"
+msgstr "On the WordPress.org support forum"
+
+#: admin/tab-pages/free_vs_pro.php:103
+msgid "Business Template and Full-Width Template"
+msgstr "Business Template and Full-Width Template"
+
+#: admin/tab-pages/free_vs_pro.php:98
+msgid "Slider [Static Image], Services [3 Services], Testimonial, Latest News"
+msgstr "Slider [Static Image], Services [3 Services], Testimonial, Latest News"
+
+#: admin/tab-pages/getting-started.php:17
+msgid "This theme is ideal for creating corporate and business websites. HoneyBee is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+msgstr "This theme is ideal for creating corporate and business websites. HoneyBee is a child theme of the HoneyPress WordPress theme. The premium version has tons of features like a homepage with many sections where you can feature unlimited slides, portfolios, user reviews, latest news, services, call to action and much more. Each section in the Homepage template is carefully designed to fit to all business requirements."
+
+#: admin/tab-pages/free_vs_pro.php:92
+msgid "Free"
+msgstr "Free"
+
+#: admin/tab-pages/free_vs_pro.php:78
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Get instant 24/7 support on our Support Forum."
+
+#: admin/tab-pages/free_vs_pro.php:77
+msgid "Support Forum"
+msgstr "Support Forum"
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "You can use WPML to make your website multilingual."
+msgstr "You can use WPML to make your website multilingual."
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "WPML Support"
+msgstr "Supports WPML"
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "You can customize the style without adding any code."
+msgstr "Customize the style without adding any code."
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Typography Settings"
+msgstr "Typography Settings"
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Show user feedback on the Homepage."
+msgstr "Show user's feedback in the Homepage."
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Testimonial/Review Section"
+msgstr "Testimonial/Review Section"
+
+#: admin/tab-pages/free_vs_pro.php:49
+msgid "Show all your services in a single place."
+msgstr "Show all your services in a single place."
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Services Page"
+msgstr "Services Page"
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr "Show team members and other custom content just by adding it in the WordPress editor."
+
+#: admin/tab-pages/free_vs_pro.php:44
+msgid "About Us Page"
+msgstr "About Us Page"
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: admin/tab-pages/free_vs_pro.php:38
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Display your Shop and Business location on your website using Google Maps."
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "Google Map"
+msgstr "Google Map"
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+msgstr "Enjoy any of the 7 preset color schemes, or create your own, without adding any code."
+
+#: admin/tab-pages/free_vs_pro.php:34
+msgid "Mulitple Color Schemes"
+msgstr "Mulitple Color Schemes"
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+msgstr "This theme supports the Contact Form 7 plugin. Use it to build your contact form."
+
+#: admin/tab-pages/free_vs_pro.php:30
+msgid "Contact Form Support"
+msgstr "Contact Form Support"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Responsive layout in all devices"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Mobile Friendly"
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "HoneyBee supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+msgstr "HoneyBee supports both a Full-Width and a Boxed layout options. To choose your preference (and switch between them) go to Appearance > Customize."
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Layout Options"
+msgstr "Layout Options"
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "HoneyBee includes various page templates."
+msgstr "HoneyBee includes various page templates."
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Page Templates Support"
+msgstr "Page Templates Support"
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "You will find a number of sections on the front page."
+msgstr "You will find a number of sections on the front page."
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Frontpage Sections"
+msgstr "Frontpage Sections"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Features"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr "Activate now"
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr "Activate SpiceBox now"
+
+#: admin/inc/include-companion.php:96
+msgid "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+msgstr "You have installed the SpiceBox plugin. To take advantage of this theme's features in the customizer, you need to activate it."
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr "Install SpiceBox Now"
+
+#: admin/inc/include-companion.php:79
+msgid "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+msgstr "To take advantage of this theme's features in the customizer you need to install the SpiceBox plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:561
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr "To display breadcrumbs, please install the Yoast SEO plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:559
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: admin/inc/class-spicethemes-about-page.php:555
+msgid "To display the contact form on the contact section in homepage, please install the Contact Form 7 plugin"
+msgstr "To display the contact form on the contact section in homepage, please install the Contact Form 7 plugin"
+
+#: admin/inc/class-spicethemes-about-page.php:553
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-spicethemes-about-page.php:549
+msgid "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+msgstr "To access the advance Frontpage sections and other theme features, please install the SpiceBox plugin."
+
+#: admin/inc/class-spicethemes-about-page.php:547
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr "SpiceBox"
+
+#: admin/inc/class-spicethemes-about-page.php:423
+msgid "Active"
+msgstr "Active"
+
+#: admin/inc/class-spicethemes-about-page.php:420
+msgid "Activate"
+msgstr "Activate"
+
+#: admin/inc/class-spicethemes-about-page.php:418
+msgid "Activate %s now"
+msgstr "Activate %s now"
+
+#: admin/inc/class-spicethemes-about-page.php:401
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr "Install and activate"
+
+#: admin/inc/class-spicethemes-about-page.php:399
+msgid "Install %s now"
+msgstr "Install %s now"
+
+#: admin/inc/class-spicethemes-about-page.php:320
+msgid "Free vs. PRO"
+msgstr "Free vs. PRO"
+
+#: admin/tab-pages/useful_plugins.php:20 admin/tab-pages/useful_plugins.php:22
+#: admin/inc/class-spicethemes-about-page.php:315
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/inc/class-spicethemes-about-page.php:308
+msgid "Support"
+msgstr "Support"
+
+#: admin/inc/class-spicethemes-about-page.php:300
+msgid "Recommended Actions"
+msgstr "Recommended Actions"
+
+#: admin/tab-pages/getting-started.php:22
+#: admin/inc/class-spicethemes-about-page.php:295
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: admin/inc/class-spicethemes-about-page.php:243
+msgid "See changelog below:"
+msgstr "See changelog below:"
+
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "Get started with HoneyBee theme"
+msgstr "Get started with HoneyBee theme"
+
+#: admin/inc/class-spicethemes-about-page.php:135
+msgid "HoneyBee theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "HoneyBee theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:122
+msgid "Welcome to %1$s %2$s"
+msgstr "Welcome to %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:121
+msgid "About %1$s %2$s"
+msgstr "About %1$s %2$s"
+
+#: admin/inc/class-spicethemes-about-page.php:113
+msgid "View Theme Info"
+msgstr "View Theme Info"
+
+#: admin/inc/plugin-include-control.php:42
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:43
+msgid "Error"
+msgstr "Error"
+
+#: admin/inc/plugin-include-control.php:41
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:42
+msgid "Activating"
+msgstr "Activating"
+
+#: admin/inc/plugin-include-control.php:40
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:41
+msgid "Installing"
+msgstr "Installing"
+
+#. Author URI of the theme
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"
+
+#. Author of the theme
+msgid "spicethemes"
+msgstr "SpiceThemes"
+
+#. Theme URI of the theme
+msgid "https://spicethemes.com/honeybee-wordpress-theme/"
+msgstr "https://spicethemes.com/honeybee-wordpress-theme/"
